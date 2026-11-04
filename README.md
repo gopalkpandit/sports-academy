@@ -2,7 +2,7 @@
 
 A complete, production-ready web application for a single sports academy. The coach records players, practice attendance and match scores; the system automatically works out who is **Ready** for scouting, and three separate logins (Coach, Player, Scout) each see only what they are allowed to see.
 
-Built for **Vibe Coding Challenge 2.0** with Next.js (App Router), MongoDB Atlas and Vercel.
+Built for Next.js (App Router), MongoDB Atlas and Vercel.
 
 ---
 
