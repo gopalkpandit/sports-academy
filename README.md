@@ -246,7 +246,7 @@ Run `npm run doctor` first — it checks the four things that break most setups 
 
 ## 13. Submission checklist
 
-- [ ] Public GitHub repo named `vibe-coding-challenge-2-0-<team-name>`
+- [ ] Public GitHub repo name `https://github.com/gopalkpandit/sports-academy`
 - [ ] `.env` never committed (only `.env.example`)
 - [ ] All four mandatory test cases verified on the live URL
 - [ ] Live Vercel URL submitted
